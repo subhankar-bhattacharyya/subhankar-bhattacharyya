@@ -1,8 +1,8 @@
 # Hi there, I'm Subhankar Bhattacharyya 👋
 
-## 🚀 MERN Stack Developer
+## 🚀 Backend Developer (Node.js | Express.js | MongoDB) | MERN Stack Learner
 
-I'm a passionate Full Stack Developer specializing in the MERN stack, dedicated to creating scalable and user-friendly web applications. I love turning complex problems into simple, beautiful, and intuitive solutions.
+I’m a passionate Backend Developer specializing in Node.js, Express.js, and MongoDB, with a solid foundation in the MERN stack. I focus on building scalable, secure, and efficient backend systems and RESTful APIs. I enjoy solving real-world problems through clean and maintainable code, and I'm driven by the goal of making backend systems robust and easy to integrate for frontend teams.
 
 ### 🔭 What I'm currently working on
 - Architecting robust RESTful APIs endpoints using Node.js, Express, and NestJS frameworks

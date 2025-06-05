@@ -16,12 +16,10 @@ I'm a passionate Full Stack Developer specializing in the MERN stack, dedicated 
 **Backend Development**
 - Nest.js framework for enterprise-level Node.js applications
 - TypeScript for enhanced development experience
-- Microservices architecture patterns
 
 **Cloud & Deployment**
 - AWS cloud services and infrastructure
 - Hostinger deployment and hosting optimization
-- Docker and Kubernetes for containerization
 
 **Frontend & Performance**
 - Modern TypeScript integration with React
@@ -59,18 +57,6 @@ I'm a passionate Full Stack Developer specializing in the MERN stack, dedicated 
 ![VS Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-
-## 📊 GitHub Stats
-
-<div align="center">
-  
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical&hide_border=true&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radical&hide_border=true)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=radical&hide_border=true)
-
-</div>
 
 ## 🏆 Featured Projects
 

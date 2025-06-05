@@ -1,4 +1,4 @@
-# Hi there, I'm [Subhankar Bhattacharyya] 👋
+# Hi there, I'm Subhankar Bhattacharyya 👋
 
 ## 🚀 MERN Stack Developer
 
